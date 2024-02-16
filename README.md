@@ -47,11 +47,14 @@ the percentage of female passengers is 50.57% and the percentage of male passeng
 ## Conclusion/Reccommendation
 1.Focus on strenghtening the economy class by improving in flight services, comfort etc which will in turn improve customers satisfaction.
 
-2.continous monitoring and regulating customers feedback
+2.continous monitoring and regulating customers feedback/survey
 
 3.Enhance online check in services and make it more user friendly
 
 4.passengers travelling for business could miss their business meetings due to delays so its advisable to reduce the number of delays to enhance customers satisfaction
+
+5.provide efficient and timely updates and assistance to passengers regarding flight status and gate changes.
+
 
 #THANK YOU...
 
