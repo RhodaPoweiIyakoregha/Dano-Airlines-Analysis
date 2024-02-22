@@ -6,7 +6,7 @@
 This Power BI Project is aimed at analysing and drawing out meaningful insights from a Uk-based airline
 headquartered in London, United Kingdom called **Dano Airlines** Which will lead to data driven solutions.
 
-**_Disclaimer**_; _All data sets report Do not represent any company, intuition, or country but just a practice data set to demonstrate the capabilities of Power BI._
+**_Disclaimer**_; _All data sets report Do not represent any company, institution, or country but just a practice data set to demonstrate the capabilities of Power BI._
 
 ## Skills/Concept Demostrated
 The following measures where incoperated ;Data Cleaning by replacing null values in power query,DAX new measures; count,sum, average.
