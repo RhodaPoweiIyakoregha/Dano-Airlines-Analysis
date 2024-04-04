@@ -25,7 +25,7 @@ the model is a single table schema, the data set consist of one table that conta
 cleanliness, comfort, service, and overall experience.
 
 ## Visualization
-![](dano_airline_dashboard.png)
+![](Dano_Original.png)
 
 The dashboard contains the following
 1.passengers demographics
